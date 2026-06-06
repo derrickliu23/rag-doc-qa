@@ -220,3 +220,4 @@ __marimo__/
 # Others
 *.pyc
 chroma_db/
+.DS_Store
